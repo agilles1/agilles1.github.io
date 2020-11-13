@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Project 1 - MyStudio "
-date:       2020-11-13 01:43:14 +0000
+title:      "Project 2 - MyStudio "
+date:       2020-11-12 20:43:14 -0500
 permalink:  project_1_-_mystudio
 ---
 
